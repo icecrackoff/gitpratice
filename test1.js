@@ -1,1 +1,3 @@
-just testing
+just testing commit1
+commit2
+commit3
